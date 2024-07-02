@@ -1,7 +1,6 @@
-## Hi there I'm Tarun👋
+Hi there I'm Tarun👋
 
-<!--
-**tarun-3626/tarun-3626**  ✨I'm a Developer, Competetive Coder, Curious and Fast Learner
+✨I'm a Developer, Competetive Coder, Curious and Fast Learner
 
 @www.linkedin.com/in/tarun-rathore-906b0426a
 @https://www.instagram.com/_itz_tarun.67/
