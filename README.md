@@ -6,6 +6,8 @@ Hi there I'm Tarun👋
 
 @https://www.instagram.com/_itz_tarun.67/
 
+@https://x.com/tarun3210
+
 
 🌱 I’m currently learning everything 
 
