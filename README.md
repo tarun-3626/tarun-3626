@@ -11,6 +11,6 @@ Hi there I'm Tarun👋
 
 👯 I’m looking to collaborate with other developers
 
-🥅 2022 Goals: Contribute more to Open Source projects and coding platform
+🥅 2024 Goals: Contribute more to Open Source projects and coding platform
 
 ⚡ Fun fact: I love to draw and swim
