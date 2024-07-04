@@ -16,3 +16,5 @@ Hi there I'm Tarun👋
 🥅 2024 Goals: Contribute more to Open Source projects and coding platform
 
 ⚡ Fun fact: I love to draw and swim
+
+Languages : C++,Java,Python,HTML,CSS,Javascript,PHP,Typescript,Bootstrap,Node.JS,React.JS,SQL,MongoDB,etc.
