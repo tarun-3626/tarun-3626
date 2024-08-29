@@ -49,4 +49,3 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=alok2297&theme=radical)
 
 
-> Note: You can customize the above information by using actual data from your GitHub account. For real-time stats and badges, you may need to use GitHub API or third-party services like GitHub Readme Stats, Wakatime, or shields.io for badges.
