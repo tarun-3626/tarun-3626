@@ -9,6 +9,9 @@
 - 📫 How to reach me: [alokkumar.av22@gmail.com](mailto:alokkumar.av22@gmail.com) or message me on [WhatsApp](https://wa.me/yourwhatsappnumber)
 - 📝 Here is my [RESUME](#).
 
+![image](https://github.com/user-attachments/assets/f684b3a3-68da-4f0e-82ef-9ddee61c9758)
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/)
@@ -45,7 +48,7 @@
 
 ## 📊 GitHub Stats:
 ![Alok Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarun-3626&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-3626&layout=compact&theme=radical)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=tarun-3626&theme=radical)
 
 
