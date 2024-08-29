@@ -3,18 +3,24 @@
 # Hi there 👋, it's me, TARUN!
 
 ## About Me:
-- 👨‍💻 I'm currently developing MERN applications, deploying AWS solutions in production, and contributing to Android projects.
+- 👨‍💻 I'm currently developing MERN applications, deploying AWS solutions in production,contributing to Android and Open Source Projects.
 - 🌱 I'm looking to collaborate on Frontend and Backend Development, MERN Stack, and Android Projects.
 - 🔧 I'm currently learning DevOps and AWS.
-- 📫 How to reach me: [alokkumar.av22@gmail.com](mailto:alokkumar.av22@gmail.com) or message me on [WhatsApp](https://wa.me/yourwhatsappnumber)
-- 📝 Here is my [RESUME](#).
+- 📫 How to reach me: [bosstarun10@gmail.com](mailto:bosstarun10@gmail.com) 
 
 ![image](https://github.com/user-attachments/assets/f684b3a3-68da-4f0e-82ef-9ddee61c9758)
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tarun-rathore-906b0426a)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_itz_tarun.67/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61557458771247)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23697536/tarun-rathore)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@bosstarun10)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@gamerbattle1582)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/tarun3210)
+
 
 ## 🛠 Tech Stack:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
@@ -47,7 +53,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ## 📊 GitHub Stats:
-![Alok Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarun-3626&show_icons=true&theme=radical)
+![Tarun Rathore's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarun-3626&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=tarun-3626&theme=radical)
 
