@@ -44,8 +44,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ## 📊 GitHub Stats:
-![tarun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Alok Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alok2297&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alok2297&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=alok2297&theme=radical)
+
 
 
