@@ -1,4 +1,5 @@
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=tarun-3626&color=blue)
+
 
 # Hi there 👋, it's me, TARUN!
 
