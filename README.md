@@ -44,29 +44,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ## 📊 GitHub Stats:
-![Alok Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![tarun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alok2297&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=alok2297&theme=radical)
 
-**Alok Kumar's GitHub Stats**
-- 🌟 Total Stars Earned: 9
-- 🔄 Total Commits: 85
-- 🏆 Total PRs: 0
-- 📝 Total Issues: 0
-- 📅 Contributed to (last year): 1
-
-| Statistic           | Value |
-|---------------------|-------|
-| **Total Contributions** | 202   |
-| **Current Streak**      | 0     |
-| **Longest Streak**      | 10    |
-
-**Most Used Languages**
-- JavaScript: 43.20%
-- Java: 34.58%
-- CSS: 11.92%
-- Kotlin: 7.54%
-- HTML: 2.20%
-- EJS: 0.57%
-
----
 
 > Note: You can customize the above information by using actual data from your GitHub account. For real-time stats and badges, you may need to use GitHub API or third-party services like GitHub Readme Stats, Wakatime, or shields.io for badges.
